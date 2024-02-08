@@ -1,2 +1,6 @@
 mountpoints:
+  url: "https://author-p15404-e209286-cmstg.adobeaemcloud.com/bin/franklin.delivery/schaulinsan/xWalk-Demo-Feb24/main"
+  type: markup
+  suffix: ".html"
+  
   /: https://drive.google.com/drive/u/0/folders/1MGzOt7ubUh3gu7zhZIPb7R7dyRzG371j
